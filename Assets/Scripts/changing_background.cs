@@ -36,11 +36,17 @@ public class changing_background : MonoBehaviour
         dictionary_colors.Add("red", Color.red);
         dictionary_colors.Add("yellow", Color.yellow);
         dictionary_colors.Add("blue", Color.blue);
+        dictionary_colors.Add("magenta", Color.magenta);
+        dictionary_colors.Add("grey", Color.grey);
+        dictionary_colors.Add("white", Color.white);
 
-        colors.Add("grey", "grey");
-        colors.Add("magenta", "magenta");
-        colors.Add("green", "green");
+
+        colors.Add("pink", "pink");
+        colors.Add("orange", "orange");
+        colors.Add("forest green", "forest green");
         colors.Add("black", "black");
+        colors.Add("lime", "lime");
+        colors.Add("lilac", "lilac");
 
         changebgColor();
 

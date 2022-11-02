@@ -485,6 +485,16 @@ MonoBehaviour:
     - Ribbit
     - Moo
     CorrectAnswer: 1
+  - Questions: What sound does a dog make?
+    Answers:
+    - Moo
+    - Woof
+    CorrectAnswer: 1
+  - Questions: What sound does a pig make?
+    Answers:
+    - Oink
+    - Meow
+    CorrectAnswer: 1
   options:
   - {fileID: 270349483}
   - {fileID: 1338686205}
