@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mini_Game_Selection.unity
     guid: 08bb7acfc4d88b44888c7472c5d47fac
+  - enabled: 1
+    path: Assets/Scenes/Farm_Animal_Score_Screen.unity
+    guid: 481575e7836691444b4c7bd33b4640d2
   m_configObjects: {}
