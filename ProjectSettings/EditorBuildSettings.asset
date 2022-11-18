@@ -12,12 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Farm_Animal_Game.unity
     guid: e36c8c8bf8793d7478aea5d249534d4a
   - enabled: 1
-    path: Assets/Scenes/Color_Quiz_Lose_Screen.unity
-    guid: bbd0a5c476073754f844584d99d7a6af
-  - enabled: 1
     path: Assets/Scenes/Mini_Game_Selection.unity
     guid: 08bb7acfc4d88b44888c7472c5d47fac
   - enabled: 1
-    path: Assets/Scenes/Farm_Animal_Score_Screen.unity
-    guid: 481575e7836691444b4c7bd33b4640d2
+    path: Assets/Scenes/Instructions_Farm.unity
+    guid: 622ef7fca4d4ef945a254ee610dd8fa5
+  - enabled: 1
+    path: Assets/Scenes/Instruction_Color_Quiz.unity
+    guid: 3459e4029f26e06458956b953cec9797
+  - enabled: 1
+    path: Assets/Scenes/Credit_Scene.unity
+    guid: bf10ad42689a4334588a046d2d5870e9
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3e4c8712930a2d0479b15521dbc934c6
   m_configObjects: {}

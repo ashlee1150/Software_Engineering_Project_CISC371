@@ -13,6 +13,9 @@ public class Score_Script : MonoBehaviour
     private int lossing_score = 0;
     public AudioSource wrong_sound;
     public AudioSource right_sound;
+    public GameObject gamecanvas;
+    public GameObject losingcanvas;
+    public TMP_Text ScoreTxt;
     //private List<string> correct_colors;
     // Start is called before the first frame update
 
@@ -20,8 +23,8 @@ public class Score_Script : MonoBehaviour
     void Start()
     {
 
-
-        
+        gamecanvas.SetActive(true);
+        losingcanvas.SetActive(false);
 
 
     }
@@ -33,7 +36,9 @@ public class Score_Script : MonoBehaviour
         scoreText.text = score.ToString();
         if (lossing_score == 3)
         {
-            SceneManager.LoadScene("Color_Quiz_Lose_Screen");
+            gamecanvas.SetActive(false);
+            losingcanvas.SetActive(true);
+            ScoreTxt.text = score + " correct!!";
         }
     }
 

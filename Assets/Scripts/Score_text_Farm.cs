@@ -7,8 +7,8 @@ using TMPro;
 public class Score_text_Farm : MonoBehaviour
 {
     public TMP_Text ScoreTxt;
-    private Color_Quiz scorecount;
-    private Color_Quiz totalQuestions;
+    private Farm_Quiz scorecount;
+    private Farm_Quiz totalQuestions;
     // Start is called before the first frame update
     void Start()
     {
