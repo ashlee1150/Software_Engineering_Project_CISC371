@@ -65,7 +65,7 @@ public class Farm_Quiz : MonoBehaviour
         gameover = true;
         Game_Quiz.SetActive(false);
         Score_scene.SetActive(true);
-        ScoreTxt.text = scorecount + "/" + totalQuestions;
+        ScoreTxt.text = scorecount + " / " + totalQuestions;
     }
     public void correct()
     {

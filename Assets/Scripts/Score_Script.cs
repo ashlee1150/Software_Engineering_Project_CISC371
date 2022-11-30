@@ -38,7 +38,7 @@ public class Score_Script : MonoBehaviour
         {
             gamecanvas.SetActive(false);
             losingcanvas.SetActive(true);
-            ScoreTxt.text = score + " correct!!";
+            ScoreTxt.text = score.ToString();
         }
     }
 

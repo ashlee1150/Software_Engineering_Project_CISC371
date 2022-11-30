@@ -1,0 +1,2181 @@
+fileFormatVersion: 2
+guid: 5eec9d6b96bceed4cbdac2d83fefb0df
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: font_fos_small_white_95_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8626b2ae4d3a01a489c368c2dcf5e1df
+      internalID: 40827689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5b69d7f4281b498943b818ec2cc9d
+      internalID: 911724533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4937c29c2649d83408f0c8a6e7d1b6a6
+      internalID: -103001304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32c77c35074de4bab3e86e02294c31
+      internalID: -768322216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8809bfe79c2c4a980c0d176b62f96
+      internalID: -1619857735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675bcfff8836ab447ab062154d5b36b2
+      internalID: 624149201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1084e27211491f4abbdb849616d1598
+      internalID: -774913744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 9
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f18f4f45718664385d087afde5b749
+      internalID: -2133622838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 9
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cd0254921745f41bda90c46b5954e7
+      internalID: 969939750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212dc3083312b2e4fb7be3b5d925a628
+      internalID: 1531527791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d19eb4b85cdb4183692311dde947d
+      internalID: 416551619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd35eccb45db1ec4a96b59b4a53c7918
+      internalID: -1398401600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35053b80fdf97aa41bc052c79dcb6dee
+      internalID: 607778556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d434650cc77ef438c2b53b5d31af27
+      internalID: -778638873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 9
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768cf62ed2da0745b75d753edfb8a76
+      internalID: 1186834255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee18ac24b3fa14ea8ca21a0697e0e3
+      internalID: 1481729886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f1134d18d8f7f45a324f799b89e3ee
+      internalID: -1069517914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 9
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32819d9d0f989104fbbc52b2a7b2336b
+      internalID: 1184892830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 9
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a56a866d6725499bc653aa85f4796
+      internalID: 290567677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01982c84a346b445b82a0387d7f7c53
+      internalID: -1760857925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6793e8e0d0a74cb3b9fa47138e995
+      internalID: 1253246312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 9
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45349b4ffc50e34ea39a77d0774e682
+      internalID: -1890488539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4b960984132443bcea6e734529575
+      internalID: 2041832820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 9
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043061c95ff57e143bac728119540990
+      internalID: -887550069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 9
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a2e25321fe6b49b83b20437b6239e
+      internalID: 745411359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 9
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58206f922fb1d5042be5ffbe2f2a596d
+      internalID: -1389108845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5a3268c350424786a9cbeb2812047
+      internalID: 1824910591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 8
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7506b9d042f1314eba133587fc2c224
+      internalID: 7916744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab97cc005dde747a0db411545620e0
+      internalID: 1318149580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31894f3d22ff2c54c87ce0037cd1acc9
+      internalID: 803641342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_30
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 9
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0db268eada62e648ae56e868abe5ada
+      internalID: -709747130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48311068a5bad0743811e72fe953fdf9
+      internalID: -1584604529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 9
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa431ab2447c9d4d9407ec5d348117d
+      internalID: 259586420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_33
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 8
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d2698529dbd245af59a562d06b97b
+      internalID: -1377712039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_34
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 9
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d427586cdde18744bc31d3427ecc183
+      internalID: 1114971019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_35
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 10
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae0150600ab6e4b9e2dccfdc1072ab
+      internalID: -261582299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_36
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 10
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de1ed177355ca45af65399ecc99959
+      internalID: 497123464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_37
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 10
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85495a251938c34418f5118cff8498d6
+      internalID: -1233135813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_38
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 11
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95186ac055797e4a956ea49788310ee
+      internalID: 2069580185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c312a6ef2bf242bacb1d9647f9860
+      internalID: 541665537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_40
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 9
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa66a53f0d483ba43b632b79b2af6e4f
+      internalID: -827495937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_41
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 10
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb9b6abb322ba49ac619235fc2cabd
+      internalID: 946082997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_42
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 11
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61cacff30204ff4dbe95b827497191e
+      internalID: -1319070732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_43
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1b93cc4989404bb0170eb68fd32f9
+      internalID: 714926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_44
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 10
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c681ab3a58c54291b76bf02c59a03
+      internalID: 708053807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_45
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 14
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c22f162a1dea04daa06be2dbac3b8d
+      internalID: 436166953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_46
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 8
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feddaa14c5716be4687ecf611ce43a15
+      internalID: -887200464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_47
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 21
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a95a33ee8b06f47b27e508f71b42c1
+      internalID: -1781257355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_48
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370262bda4a58a9448d47ca4d5df7f0f
+      internalID: -2019574908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_49
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399f56b400b7d0488041da0d2c488ed
+      internalID: 1624848908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_50
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 10
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33730b8b95b474abffbc414df3b091
+      internalID: 1928276449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_51
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0db009b8d82034780f98122f036f56
+      internalID: 1803050158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_52
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 9
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e65f4f00a89a41bffe9ce8f71964d
+      internalID: 2141979709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_53
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 10
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863873fabc467eb449e7d9ca491231d2
+      internalID: 742857475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_54
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 9
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710589c68cefb1b43903e9da3b026add
+      internalID: -387905097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_55
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 8
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b112e3a4d51549a4a7b3d2635f2d6
+      internalID: 918370324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_56
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 9
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b730dede9aa545b145e03779a1b80
+      internalID: 166571953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_57
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 10
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890615cd5221e848a6769fff5a23d39
+      internalID: 1237419779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 10
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadaf2f5c93cb1d40a7780c32474e0b8
+      internalID: 1079978124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_59
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 10
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f20fdfdfe5adb40ac2ea331bc03bce
+      internalID: 897632908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_60
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 10
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c356a69b9e6994e8ef50e2514a75a1
+      internalID: 390401458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_61
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 11
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8bc2c8919b865418060e474816f495
+      internalID: -228683627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_62
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 10
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d56ca4f77e72b641946647abd857100
+      internalID: -309410942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_63
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 8
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c644b3eb61fd54ba1a668b71937fc8
+      internalID: 158110245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_64
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 11
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2088f7c70c454abfa5227c3345d11
+      internalID: -135824219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_65
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 5
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a507041743b0ab4c9ea60a67edd933e
+      internalID: 1689020946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_66
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa5702ce1a60a489f05474ac613b75
+      internalID: 1573375934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_67
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 11
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8226042095a7340ba86d45fcd1b75a
+      internalID: -817462170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e141dfca439bd47811f08090d255ba
+      internalID: -481486280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_69
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701f371d8188574c8a53086acfae2ec
+      internalID: 1288770508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_70
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd912b203601af248914aa8bf63f3abf
+      internalID: -1812590809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_71
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fd75bbb4fdb144ba7847ac25b7f4fd
+      internalID: -2021715427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_72
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5420fdaecf3114aa08a815289f1a53
+      internalID: -1514916529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_73
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edecc4c2a70eaa48990107c992c29ee
+      internalID: -620738185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_74
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c42fc397724e4bbdc6f88c4aae493
+      internalID: -88688292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839cb38b850b1d47897e86b94950417
+      internalID: -2137114643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_76
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317c71fa9bc38843b66779266eff4cb
+      internalID: -167391220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_77
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe04d5e8aa449f418ac49c4150dc6e5
+      internalID: 128320601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_78
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbaab60b2762934cb8f07d9348e3c6a
+      internalID: 1574172936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_79
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406cd32127a09ea4fb72fc58e67c8c4e
+      internalID: -515744877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_80
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736eb0cef3c2d104c8ff16a6deab6a45
+      internalID: -936325979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_81
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c9df4e4d072646a2d89f0e34e4eb0
+      internalID: -703074194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_82
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc860f7a41953db419d859b7181abf5c
+      internalID: 944941367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_83
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e795b8e29ef4f14f9c66851d4dfff2f
+      internalID: -2042323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_84
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 9
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac0f5d76aea9146b8eea3c842903f9
+      internalID: 2059826547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_85
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 5
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5af5373ae99141942b4cfe8e55967
+      internalID: 1488581066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_86
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 8
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4db1505eab7334e98ca441e116a714
+      internalID: -147517132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_87
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 4
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d417df274c59b4ea3735583c190519
+      internalID: 1066918375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_88
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214bf1b2898e4c4cadaa7b0383b9862
+      internalID: -2054615905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_89
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282bb4ca6db16044a41a52f1d4e24f8
+      internalID: -1049635614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_90
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 9
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70104b31e12ecfe4ebb1f1f8d4651c4d
+      internalID: -365817602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_91
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd19de5a1ab0d143a0806aeee7c291b
+      internalID: 285163336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: font_fos_small_white_95_92
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315a37640a4b2c43b98b4abae49a75a
+      internalID: 162041204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      font_fos_small_white_95_65: 1689020946
+      font_fos_small_white_95_10: 416551619
+      font_fos_small_white_95_82: 944941367
+      font_fos_small_white_95_84: 2059826547
+      font_fos_small_white_95_92: 162041204
+      font_fos_small_white_95_40: -827495937
+      font_fos_small_white_95_29: 803641342
+      font_fos_small_white_95_18: 290567677
+      font_fos_small_white_95_57: 1237419779
+      font_fos_small_white_95_6: -774913744
+      font_fos_small_white_95_79: -515744877
+      font_fos_small_white_95_36: 497123464
+      font_fos_small_white_95_75: -2137114643
+      font_fos_small_white_95_72: -1514916529
+      font_fos_small_white_95_74: -88688292
+      font_fos_small_white_95_63: 158110245
+      font_fos_small_white_95_71: -2021715427
+      font_fos_small_white_95_30: -709747130
+      font_fos_small_white_95_87: 1066918375
+      font_fos_small_white_95_13: -778638873
+      font_fos_small_white_95_64: -135824219
+      font_fos_small_white_95_35: -261582299
+      font_fos_small_white_95_14: 1186834255
+      font_fos_small_white_95_33: -1377712039
+      font_fos_small_white_95_76: -167391220
+      font_fos_small_white_95_46: -887200464
+      font_fos_small_white_95_16: -1069517914
+      font_fos_small_white_95_90: -365817602
+      font_fos_small_white_95_24: 745411359
+      font_fos_small_white_95_1: 911724533
+      font_fos_small_white_95_78: 1574172936
+      font_fos_small_white_95_69: 1288770508
+      font_fos_small_white_95_22: 2041832820
+      font_fos_small_white_95_11: -1398401600
+      font_fos_small_white_95_41: 946082997
+      font_fos_small_white_95_17: 1184892830
+      font_fos_small_white_95_68: -481486280
+      font_fos_small_white_95_44: 708053807
+      font_fos_small_white_95_38: 2069580185
+      font_fos_small_white_95_26: 1824910591
+      font_fos_small_white_95_27: 7916744
+      font_fos_small_white_95_19: -1760857925
+      font_fos_small_white_95_8: 969939750
+      font_fos_small_white_95_52: 2141979709
+      font_fos_small_white_95_9: 1531527791
+      font_fos_small_white_95_48: -2019574908
+      font_fos_small_white_95_23: -887550069
+      font_fos_small_white_95_91: 285163336
+      font_fos_small_white_95_45: 436166953
+      font_fos_small_white_95_70: -1812590809
+      font_fos_small_white_95_62: -309410942
+      font_fos_small_white_95_67: -817462170
+      font_fos_small_white_95_21: -1890488539
+      font_fos_small_white_95_66: 1573375934
+      font_fos_small_white_95_0: 40827689
+      font_fos_small_white_95_39: 541665537
+      font_fos_small_white_95_28: 1318149580
+      font_fos_small_white_95_4: -1619857735
+      font_fos_small_white_95_51: 1803050158
+      font_fos_small_white_95_32: 259586420
+      font_fos_small_white_95_15: 1481729886
+      font_fos_small_white_95_60: 390401458
+      font_fos_small_white_95_43: 714926080
+      font_fos_small_white_95_83: -2042323782
+      font_fos_small_white_95_86: -147517132
+      font_fos_small_white_95_85: 1488581066
+      font_fos_small_white_95_20: 1253246312
+      font_fos_small_white_95_47: -1781257355
+      font_fos_small_white_95_58: 1079978124
+      font_fos_small_white_95_73: -620738185
+      font_fos_small_white_95_77: 128320601
+      font_fos_small_white_95_53: 742857475
+      font_fos_small_white_95_54: -387905097
+      font_fos_small_white_95_34: 1114971019
+      font_fos_small_white_95_3: -768322216
+      font_fos_small_white_95_50: 1928276449
+      font_fos_small_white_95_89: -1049635614
+      font_fos_small_white_95_12: 607778556
+      font_fos_small_white_95_5: 624149201
+      font_fos_small_white_95_42: -1319070732
+      font_fos_small_white_95_81: -703074194
+      font_fos_small_white_95_55: 918370324
+      font_fos_small_white_95_7: -2133622838
+      font_fos_small_white_95_25: -1389108845
+      font_fos_small_white_95_31: -1584604529
+      font_fos_small_white_95_61: -228683627
+      font_fos_small_white_95_59: 897632908
+      font_fos_small_white_95_37: -1233135813
+      font_fos_small_white_95_56: 166571953
+      font_fos_small_white_95_49: 1624848908
+      font_fos_small_white_95_80: -936325979
+      font_fos_small_white_95_88: -2054615905
+      font_fos_small_white_95_2: -103001304
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

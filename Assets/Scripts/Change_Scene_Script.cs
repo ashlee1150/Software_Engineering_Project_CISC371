@@ -30,10 +30,7 @@ public class Change_Scene_Script : MonoBehaviour
         SceneManager.LoadScene("Instructions_Farm");
     }
 
-    public void Credit_Scene()
-    {
-        SceneManager.LoadScene("Credit_Scene");
-    }
+    
     public void Main_Menu_Scene()
     {
         SceneManager.LoadScene("Main Menu");

@@ -37,10 +37,7 @@ public class Answers_Script : MonoBehaviour
             Button button_intereact = answer.GetComponent<Button>();
 
             button_intereact.interactable = true;
-            //answer1.SetActive(false);
-            //answer2.SetActive(false);
-            //Debug.Log("sound is notplaying");
-            //disable buttons that work else enable buttons that work and disable farse ones
+           
         }
         else
         {
