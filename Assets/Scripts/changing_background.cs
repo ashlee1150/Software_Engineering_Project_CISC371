@@ -12,7 +12,7 @@ public class changing_background : MonoBehaviour
 
     public GameObject[] options;
 
-    public SpriteRenderer sprite; //access to background
+    public Image sprite; //access to background
 
     private Dictionary<string, Color> dictionary_colors = new Dictionary<string, Color>(); // dictionary of both names of colors and actual colors
 
@@ -46,7 +46,7 @@ public class changing_background : MonoBehaviour
         colors.Add("forest green", "forest green");
         colors.Add("black", "black");
         colors.Add("lime", "lime");
-        colors.Add("lilac", "lilac");
+        colors.Add("periwinkle", "periwinkle");
 
         changebgColor();
 
@@ -84,7 +84,7 @@ public class changing_background : MonoBehaviour
 
         //getting specific color from chosenColor
         Color color_chosen = randomValue;
-        sprite.color = color_chosen;
+        sprite.GetComponent<Image>().color = color_chosen;
 
 
         randomize = UnityEngine.Random.Range(0, options.Length); //randomly pick button

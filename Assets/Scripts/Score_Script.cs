@@ -40,6 +40,11 @@ public class Score_Script : MonoBehaviour
             losingcanvas.SetActive(true);
             ScoreTxt.text = score.ToString();
         }
+
+        if(score > 99)
+        {
+            scoreText.text = "100+";
+        }
     }
 
     //this function changes score if the right button is pressed

@@ -7,6 +7,8 @@ public class Credit_Canvas_Change : MonoBehaviour
 
     public GameObject mainmenu_button1; //begin button
     public GameObject mainmenu_button2; // credits button
+    public GameObject title; //title of game
+    public GameObject names; //names of creators
     public GameObject credits_scene1_button1; //go to mainmenu
     public GameObject credits_scene1_button2; // goto credits 2
     public GameObject credits_scene2_button1; // goback to credits 2
@@ -24,6 +26,8 @@ public class Credit_Canvas_Change : MonoBehaviour
         mainmenu_button1.SetActive(false);
         mainmenu_button2.SetActive(false);
         MainMenu_Canvas.SetActive(false);
+        title.SetActive(false);
+        names.SetActive(false);
         Credits_Scene2.SetActive(true);
         credits_title.SetActive(true);
         credits_scene1_button2.SetActive(true);
@@ -36,6 +40,8 @@ public class Credit_Canvas_Change : MonoBehaviour
         mainmenu_button1.SetActive(true);
         mainmenu_button2.SetActive(true);
         MainMenu_Canvas.SetActive(true);
+        title.SetActive(true);
+        names.SetActive(true);
         Credits_Scene2.SetActive(false);
         credits_title.SetActive(false);
         credits_scene1_button2.SetActive(false);
