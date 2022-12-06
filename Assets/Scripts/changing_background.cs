@@ -26,12 +26,14 @@ public class changing_background : MonoBehaviour
     [HideInInspector]
     public String randomKey2;
 
+    public Color start_color;
+
 
     // Start is called before the first frame update
     void Start()
     {
 
-
+        start_color = GetComponent<Image>().color;
         dictionary_colors.Add("cyan", Color.cyan);
         dictionary_colors.Add("red", Color.red);
         dictionary_colors.Add("yellow", Color.yellow);
@@ -113,7 +115,6 @@ public class changing_background : MonoBehaviour
 
     public void onbuttonclick()
     {
-
         changebgColor();
     }
 }

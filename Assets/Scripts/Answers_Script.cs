@@ -25,9 +25,10 @@ public class Answers_Script : MonoBehaviour
     public AudioSource right_answer;
     public AudioSource wrong_answer;
     public GameObject answer;
+    public Color startcolor;
     void Start()
     {
-        
+        startcolor = GetComponent<Image>().color;
         Sounds();
     }
     private void Update()
@@ -51,13 +52,16 @@ public class Answers_Script : MonoBehaviour
     {
         if (isCorrect)
         {
+            GetComponent<Image>().color = Color.green;
             Debug.Log("correct answer play animal sound");
             quizManager.correct();
             right_answer.Play();
+
         }
 
         else
         {
+            GetComponent<Image>().color = Color.red;
             Debug.Log("wrong answer");
             quizManager.wrong();
             wrong_answer.Play();

@@ -293,7 +293,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &68579254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1010,6 +1010,7 @@ MonoBehaviour:
   sprite: {fileID: 61848075}
   randomKey: 
   randomKey2: 
+  start_color: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &238308227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1019,7 +1020,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 238308221}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4fbf3086f42dca41ac6dba705d16cc1, type: 3}
+  m_Script: {fileID: 11500000, guid: 6cddd70fae73f39419f639c630cc2214, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
@@ -2435,7 +2436,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &705569091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3277,6 +3278,9 @@ MonoBehaviour:
   gamecanvas: {fileID: 705569090}
   losingcanvas: {fileID: 68579253}
   ScoreTxt: {fileID: 687511064}
+  color_start: {r: 0, g: 0, b: 0, a: 0}
+  button1: {fileID: 238308223}
+  button2: {fileID: 1293817030}
 --- !u!1 &916582247
 GameObject:
   m_ObjectHideFlags: 0
@@ -3976,6 +3980,7 @@ MonoBehaviour:
   sprite: {fileID: 61848075}
   randomKey: 
   randomKey2: 
+  start_color: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &1293817034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3985,7 +3990,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1293817028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4fbf3086f42dca41ac6dba705d16cc1, type: 3}
+  m_Script: {fileID: 11500000, guid: 6cddd70fae73f39419f639c630cc2214, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:

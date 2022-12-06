@@ -3887,7 +3887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Created by: Ashley Flores, Mamoun Alangreh, Jacklyn Arias, Betsy Bustan'
+  m_text: 'Created by: Ashley Flores, Mamoun Alanagreh, Jacklyn Arias, Betsy Bustan'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d077c3637dcfdbd429037bc0ab139480, type: 2}
   m_sharedMaterial: {fileID: -6217546948911962975, guid: d077c3637dcfdbd429037bc0ab139480, type: 2}
